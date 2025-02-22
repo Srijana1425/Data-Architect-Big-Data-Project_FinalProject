@@ -40,8 +40,8 @@ Record Your Video: Create a screen + audio recording. Explain your slides clearl
 ## Project Files 📂
 To further understanding this project, please refer to the following files in my repository:
 - **Project Templates**: Here you will find all project templates.
-- [companyprofile-problemstatement-3.docx](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
-- [DataLakeArchitectureDesign.docxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
-- [DataLakeExecutivePresentation.pptxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/datalakeexecutivepresentation-starter-1.pptx)
+  1) [companyprofile-problemstatement-3.docx](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
+  2) [DataLakeArchitectureDesign.docxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
+  3) [DataLakeExecutivePresentation.pptxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/datalakeexecutivepresentation-starter-1.pptx)
 
 - **Project Work**: Here you can see all my project work documents and presentations (PPT).
