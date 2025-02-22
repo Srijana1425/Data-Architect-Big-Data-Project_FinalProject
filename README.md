@@ -20,15 +20,15 @@ Read the Company Profile and Problem Statement: Understand the company's current
 
 **Serving Layer**: Plan how to serve the data for applications like ML, reports, and visualization.
 
-Use [diagrams.net](https://www.lucidchart.com/) or similar software to create this diagram. Save it as a PDF named `DataLakeSolutionArchitectureDiagram.PDF`.
+Use [Lucidchat](https://www.lucidchart.com/) or similar software to create this diagram. Save it as a PDF named `DataLakeSolutionArchitectureDiagram.PDF`.
 
 ### Step 3: Populate the Data Lake Architecture Design Template
-Embed the Architecture Diagram: Place the PDF from Step 2 into the DataLakeArchitectureDesign.docxtemplate (under question #5).
+Embed the Architecture Diagram: Place the PDF from Step 2 into the [DataLakeArchitectureDesign.docxtemplate]() (under question #5).
 
 Populate Remaining Sections: Describe your architecture, rationale for design decisions, and how your design solves the company's challenges. State assumptions and potential risks. Ensure technical correctness and include cloud-native tools if relevant.
 
 ### Step 4: Create a Presentation for Executives
-Use the Powerpoint Template: Use the DataLakeExecutivePresentation.pptxtemplate to create a presentation.
+Use the Powerpoint Template: Use the [DataLakeExecutivePresentation.pptxtemplate]() to create a presentation.
 
 Focus on the Value Proposition: Explain why a Data Lake is important, what business value it brings, and what problems it can solve. Avoid technical jargon and tool names. Make the presentation visually appealing and easy to understand.
 
