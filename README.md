@@ -1,4 +1,22 @@
 # Project: Designing an Enterprise Data Lake 🚀
+## Aim of the Project 🎯
+The aim of this project is to design and implement a Data Lake solution for "Medical Data Processing" Company, which will address the current challenges and limitations of their existing data infrastructure. By transitioning from a traditional monolithic 3-tier application architecture to a scalable, reliable, and efficient Data Lake architecture, the company aims to:
+
+**Improve System Uptime and Reliability:** Ensure continuous availability and fault tolerance of the system, minimizing downtime and risk.
+
+**Enhance Performance and Scalability:** Reduce latency of SQL queries and reports, and enable the architecture to scale with increasing data volume and velocity.
+
+**Increase Business Agility:** Foster innovation through automation and the ability to experiment with new frameworks, thereby improving the speed of business processes.
+
+**Streamline Data Management:** Centralize all enterprise data, enable easy access, and implement a metadata-driven design to process various data types efficiently.
+
+**Enable Advanced Analytics:** Support real-time data processing, machine learning model building, and the creation of near-real-time dashboards without the need to move data across systems.
+
+**Leverage Open Source Tools:** Avoid vendor lock-in by embracing open source tools, ensuring flexibility and cost-effectiveness.
+
+**Facilitate Comprehensive Reporting and Analytics:** Provide interactive querying capabilities, ad-hoc data analytics, and seamless integration with different ML frameworks and visualization tools.
+
+By achieving these objectives, the company can overcome its current data processing limitations and position itself for continued growth and success in the healthcare data insights industry.
 
 ## There are 4 deliverables in this project. 🏆
 - Data Lake Solution Architecture Diagram
