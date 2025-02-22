@@ -1,6 +1,6 @@
-# Project: Designing an Enterprise Data Lake
+# Project: Designing an Enterprise Data Lake 🚀
 
-## There are 4 deliverables in this project.
+## There are 4 deliverables in this project. 🏆
 - Data Lake Solution Architecture Diagram
 - Data Lake Architecture Design Template
 - A Powerpoint presentation targeted for CXO level audience showcasing Data Lake Value Proposition
@@ -22,7 +22,7 @@ Read the Company Profile and Problem Statement: Understand the company's current
 
 Use [Lucidchat](https://www.lucidchart.com/) or similar software to create this diagram. Save it as a PDF named `DataLakeSolutionArchitectureDiagram.PDF`.
 
-### Step 3: Populate the Data Lake Architecture Design Template
+### Step 3: Populate the Data Lake Architecture Design Template 📄
 Embed the Architecture Diagram: Place the PDF from Step 2 into the [DataLakeArchitectureDesign.docxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx) (under question #5).
 
 Populate Remaining Sections: Describe your architecture, rationale for design decisions, and how your design solves the company's challenges. State assumptions and potential risks. Ensure technical correctness and include cloud-native tools if relevant.
@@ -32,12 +32,15 @@ Use the Powerpoint Template: Use the [DataLakeExecutivePresentation.pptxtemplate
 
 Focus on the Value Proposition: Explain why a Data Lake is important, what business value it brings, and what problems it can solve. Avoid technical jargon and tool names. Make the presentation visually appealing and easy to understand.
 
-### Step 5: Record Your Presentation
+### Step 5: Record Your Presentation 🎥
 Prepare Your Slides: Use the presentation from Step 4.
 
 Record Your Video: Create a screen + audio recording. Explain your slides clearly and concisely, without reading the content word-for-word. Present effectively and aim to convince the leadership to adopt your proposed design.
 
 ## Project Files 📂
 To further understanding this project, please refer to the following files in my repository:
-- ### 1. Project Data 🗂️
-- **Description**: Contains all three JSON data sources.
+- **Project Templates**: Here you will find all project templates.
+- [DataLakeArchitectureDesign.docxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
+- [DataLakeExecutivePresentation.pptxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/datalakeexecutivepresentation-starter-1.pptx)
+
+- **Project Work**: Here you can see all my project work documents and presentations (PPT).
