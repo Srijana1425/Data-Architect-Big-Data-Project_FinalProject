@@ -44,4 +44,5 @@ To further understanding this project, please refer to the following files in my
   2) [DataLakeArchitectureDesign.docxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
   3) [DataLakeExecutivePresentation.pptxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/datalakeexecutivepresentation-starter-1.pptx)
 
-- **Project Work**: Here you can see all my project work documents and presentations (PPT).
+- **Project Work**: Here you can see all my project work documents -
+- 
