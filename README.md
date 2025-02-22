@@ -28,7 +28,7 @@ Embed the Architecture Diagram: Place the PDF from Step 2 into the [DataLakeArch
 Populate Remaining Sections: Describe your architecture, rationale for design decisions, and how your design solves the company's challenges. State assumptions and potential risks. Ensure technical correctness and include cloud-native tools if relevant.
 
 ### Step 4: Create a Presentation for Executives
-Use the Powerpoint Template: Use the [DataLakeExecutivePresentation.pptxtemplate]() to create a presentation.
+Use the Powerpoint Template: Use the [DataLakeExecutivePresentation.pptxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/datalakeexecutivepresentation-starter-1.pptx) to create a presentation.
 
 Focus on the Value Proposition: Explain why a Data Lake is important, what business value it brings, and what problems it can solve. Avoid technical jargon and tool names. Make the presentation visually appealing and easy to understand.
 
