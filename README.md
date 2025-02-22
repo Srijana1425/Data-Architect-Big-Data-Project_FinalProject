@@ -12,7 +12,7 @@
 Read the Company Profile and Problem Statement: Understand the company's current situation, challenges, and requirements. This document includes a detailed description, current architecture, problem details, and business/technical requirements.
 
 ### Step 2: Create a Data Lake Solution Architecture Diagram
-Ingestion Layer: Plan how to ingest various types of data.
+**Ingestion Layer**: Plan how to ingest various types of data.
 
 **Storage Layer**: Decide how to store large amounts of data and leverage NoSQL databases.
 
@@ -20,7 +20,7 @@ Ingestion Layer: Plan how to ingest various types of data.
 
 **Serving Layer**: Plan how to serve the data for applications like ML, reports, and visualization.
 
-Use diagrams.net or similar software to create this diagram. Save it as a PDF named DataLakeSolutionArchitectureDiagram.PDF.
+Use [diagrams.net](https://www.lucidchart.com/) or similar software to create this diagram. Save it as a PDF named `DataLakeSolutionArchitectureDiagram.PDF`.
 
 ### Step 3: Populate the Data Lake Architecture Design Template
 Embed the Architecture Diagram: Place the PDF from Step 2 into the DataLakeArchitectureDesign.docxtemplate (under question #5).
