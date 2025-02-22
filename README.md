@@ -44,14 +44,10 @@ To further understanding this project, please refer to the following files in my
   2) [DataLakeArchitectureDesign.docxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/companyprofile-problemstatement-3.docx)
   3) [DataLakeExecutivePresentation.pptxtemplate](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/Project_templates/datalakeexecutivepresentation-starter-1.pptx)
 
-- **Project Work**: Here you can see all my project work documents -
-  1)[DataLakeArchitectureDesign.docx.docx](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeArchitectureDesign.docx.docx)
-  
-  2)[DataLakeArchitectureDesign.docx.pdf](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeArchitectureDesign.docx.pdf)
-  
-  3)[DataLakeExecutivePresentation.pptx.pptx](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeExecutivePresentation.pptx.pptx)
-  
+- **Project Work**: Here you can see all my project work documents.
+  1) [DataLakeArchitectureDesign.docx.docx](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeArchitectureDesign.docx.docx)
+  2) [DataLakeArchitectureDesign.docx.pdf](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeArchitectureDesign.docx.pdf)
+  3) [DataLakeExecutivePresentation.pptx.pptx](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeExecutivePresentation.pptx.pptx)
   4) [datalakeexecutivepresentation_ppt.pdf](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/datalakeexecutivepresentation_ppt.pdf)
-    
-  5)[DataLakeSolutionArchitectureDiagram.PDF.pdf](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeSolutionArchitectureDiagram.PDF.pdf)
+  5) [DataLakeSolutionArchitectureDiagram.PDF.pdf](https://github.com/Srijana1425/Data-Architect-Big-Data-Project_FinalProject/blob/main/project%20work/DataLakeSolutionArchitectureDiagram.PDF.pdf)
 
