@@ -37,4 +37,7 @@ Prepare Your Slides: Use the presentation from Step 4.
 
 Record Your Video: Create a screen + audio recording. Explain your slides clearly and concisely, without reading the content word-for-word. Present effectively and aim to convince the leadership to adopt your proposed design.
 
-
+## Project Files 📂
+To further understanding this project, please refer to the following files in my repository:
+- ### 1. Project Data 🗂️
+- **Description**: Contains all three JSON data sources.
